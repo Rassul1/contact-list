@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ivelingv/contact-list.git"
+    "url": "git+https://github.com/Rassul1/contact-list.git"
   },
   "keywords": [
     "contacts",
@@ -20,9 +20,9 @@
   "author": "I. Georgiev.",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ivelingv/contact-list/issues"
+    "url": "https://github.com/Rassul1/contact-list/issues"
   },
-  "homepage": "https://github.com/ivelingv/contact-list#readme",
+  "homepage": "https://github.com/Rassul1/contact-list#readme",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "express": "^4.17.3",
